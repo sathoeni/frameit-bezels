@@ -313,16 +313,6 @@
                     "path": "bezels/apple/iphone/iPhone 15 Pro/iPhone 15 Pro - Black Titanium - Landscape.png"
                 },
                 {
-                    "color": "natural-titanium",
-                    "orientation": "portrait",
-                    "path": "bezels/apple/iphone/iPhone 15 Pro/iPhone 15 Pro - Natural Titanium - Portrait.png"
-                },
-                {
-                    "color": "natural-titanium",
-                    "orientation": "landscape",
-                    "path": "bezels/apple/iphone/iPhone 15 Pro/iPhone 15 Pro - Natural Titanium - Landscape.png"
-                },
-                {
                     "color": "blue-titanium",
                     "orientation": "portrait",
                     "path": "bezels/apple/iphone/iPhone 15 Pro/iPhone 15 Pro - Blue Titanium - Portrait.png"
@@ -331,6 +321,16 @@
                     "color": "blue-titanium",
                     "orientation": "landscape",
                     "path": "bezels/apple/iphone/iPhone 15 Pro/iPhone 15 Pro - Blue Titanium - Landscape.png"
+                },
+                {
+                    "color": "natural-titanium",
+                    "orientation": "portrait",
+                    "path": "bezels/apple/iphone/iPhone 15 Pro/iPhone 15 Pro - Natural Titanium - Portrait.png"
+                },
+                {
+                    "color": "natural-titanium",
+                    "orientation": "landscape",
+                    "path": "bezels/apple/iphone/iPhone 15 Pro/iPhone 15 Pro - Natural Titanium - Landscape.png"
                 },
                 {
                     "color": "white-titanium",
@@ -815,10 +815,10 @@
             ]
         },
         {
-            "name": "iPad Pro 13-inch 4th-Gen",
+            "name": "iPad Pro (12.9-inch, 6th-Gen)",
             "type": "ipad",
-            "generation": "4",
-            "variant": "pro-13",
+            "generation": "6",
+            "variant": "pro-12.9",
             "displaySize": "12.9",
             "bezelType": "standard",
             "resolution": {
@@ -829,27 +829,17 @@
                 {
                     "color": "silver",
                     "orientation": "portrait",
-                    "path": "bezels/apple/ipad/iPad Pro 13-inch 4th-Gen/Apple iPad Pro 13 Silver - Portrait.png"
-                },
-                {
-                    "color": "silver",
-                    "orientation": "landscape",
-                    "path": "bezels/apple/ipad/iPad Pro 13-inch 4th-Gen/Apple iPad Pro 13 Silver - Landscape.png"
+                    "path": "bezels/apple/ipad/iPad Pro 12.9-inch 6th-Gen 2022/Apple iPad Pro 12.9 Silver - Portrait.png"
                 },
                 {
                     "color": "space-gray",
                     "orientation": "portrait",
-                    "path": "bezels/apple/ipad/iPad Pro 13-inch 4th-Gen/Apple iPad Pro 13 Space Gray - Portrait.png"
-                },
-                {
-                    "color": "space-gray",
-                    "orientation": "landscape",
-                    "path": "bezels/apple/ipad/iPad Pro 13-inch 4th-Gen/Apple iPad Pro 13 Space Gray - Landscape.png"
+                    "path": "bezels/apple/ipad/iPad Pro 12.9-inch 6th-Gen 2022/Apple iPad Pro 12.9 Space Gray - Portrait.png"
                 }
             ]
         },
         {
-            "name": "iPad Pro 11-inch 4th-Gen",
+            "name": "iPad Pro (11-inch, 4th-Gen)",
             "type": "ipad",
             "generation": "4",
             "variant": "pro-11",
@@ -863,27 +853,17 @@
                 {
                     "color": "silver",
                     "orientation": "portrait",
-                    "path": "bezels/apple/ipad/iPad Pro 11-inch 4th-Gen/Apple iPad Pro 11 Silver - Portrait.png"
-                },
-                {
-                    "color": "silver",
-                    "orientation": "landscape",
-                    "path": "bezels/apple/ipad/iPad Pro 11-inch 4th-Gen/Apple iPad Pro 11 Silver - Landscape.png"
+                    "path": "bezels/apple/ipad/iPad Pro 11-inch 4th-Gen 2022/Apple iPad Pro 11 Silver - Portrait.png"
                 },
                 {
                     "color": "space-gray",
                     "orientation": "portrait",
-                    "path": "bezels/apple/ipad/iPad Pro 11-inch 4th-Gen/Apple iPad Pro 11 Space Gray - Portrait.png"
-                },
-                {
-                    "color": "space-gray",
-                    "orientation": "landscape",
-                    "path": "bezels/apple/ipad/iPad Pro 11-inch 4th-Gen/Apple iPad Pro 11 Space Gray - Landscape.png"
+                    "path": "bezels/apple/ipad/iPad Pro 11-inch 4th-Gen 2022/Apple iPad Pro 11 Space Gray - Portrait.png"
                 }
             ]
         },
         {
-            "name": "iPad Air 4th-Gen 2020",
+            "name": "iPad Air (4th generation)",
             "type": "ipad",
             "generation": "4",
             "variant": "air",
@@ -900,19 +880,9 @@
                     "path": "bezels/apple/ipad/iPad Air 4th-Gen 2020/Apple iPad Air 2020 Space Gray Portrait.png"
                 },
                 {
-                    "color": "space-gray",
-                    "orientation": "landscape",
-                    "path": "bezels/apple/ipad/iPad Air 4th-Gen 2020/Apple iPad Air 2020 Space Gray Landscape.png"
-                },
-                {
                     "color": "silver",
                     "orientation": "portrait",
                     "path": "bezels/apple/ipad/iPad Air 4th-Gen 2020/Apple iPad Air 2020 Silver Portrait.png"
-                },
-                {
-                    "color": "silver",
-                    "orientation": "landscape",
-                    "path": "bezels/apple/ipad/iPad Air 4th-Gen 2020/Apple iPad Air 2020 Silver Landscape.png"
                 },
                 {
                     "color": "green",
@@ -920,34 +890,19 @@
                     "path": "bezels/apple/ipad/iPad Air 4th-Gen 2020/Apple iPad Air 2020 Green Portrait.png"
                 },
                 {
-                    "color": "green",
-                    "orientation": "landscape",
-                    "path": "bezels/apple/ipad/iPad Air 4th-Gen 2020/Apple iPad Air 2020 Green Landscape.png"
-                },
-                {
                     "color": "rose-gold",
                     "orientation": "portrait",
                     "path": "bezels/apple/ipad/iPad Air 4th-Gen 2020/Apple iPad Air 2020 Rose Gold Portrait.png"
                 },
                 {
-                    "color": "rose-gold",
-                    "orientation": "landscape",
-                    "path": "bezels/apple/ipad/iPad Air 4th-Gen 2020/Apple iPad Air 2020 Rose Gold Landscape.png"
-                },
-                {
                     "color": "sky-blue",
                     "orientation": "portrait",
                     "path": "bezels/apple/ipad/iPad Air 4th-Gen 2020/Apple iPad Air 2020 Sky Blue Portrait.png"
-                },
-                {
-                    "color": "sky-blue",
-                    "orientation": "landscape",
-                    "path": "bezels/apple/ipad/iPad Air 4th-Gen 2020/Apple iPad Air 2020 Sky Blue Landscape.png"
                 }
             ]
         },
         {
-            "name": "iPad 9th-Gen 2019",
+            "name": "iPad (9th generation)",
             "type": "ipad",
             "generation": "9",
             "variant": "standard",
@@ -959,27 +914,30 @@
             },
             "frames": [
                 {
-                    "color": "space-grey",
+                    "color": "space-gray",
                     "orientation": "portrait",
-                    "path": "bezels/apple/ipad/iPad 9th-Gen 2019/Apple iPad Space Grey.png"
+                    "path": "bezels/apple/ipad/iPad 9th-Gen 10.2-inch 2019/Apple iPad 10.2 Space Gray Portrait.png"
                 },
                 {
                     "color": "silver",
                     "orientation": "portrait",
-                    "path": "bezels/apple/ipad/iPad 9th-Gen 2019/Apple iPad Silver.png"
+                    "path": "bezels/apple/ipad/iPad 9th-Gen 10.2-inch 2019/Apple iPad 10.2 Silver Portrait.png"
                 },
                 {
                     "color": "gold",
                     "orientation": "portrait",
-                    "path": "bezels/apple/ipad/iPad 9th-Gen 2019/Apple iPad Gold.png"
+                    "path": "bezels/apple/ipad/iPad 9th-Gen 10.2-inch 2019/Apple iPad 10.2 Gold Portrait.png"
                 }
             ]
         }
     ],
     "metadata": {
-        "version": "1.0.0",
+        "version": "1.1.0",
         "lastUpdated": "2024-03-20",
-        "description": "Device bezel specifications",
-        "source": "ios-resolution.com"
+        "description": "Device bezel specifications updated with latest iPad and iPhone models",
+        "sources": [
+            "https://support.apple.com/de-de/108043",
+            "https://developer.apple.com/help/app-store-connect/reference/screenshot-specifications/"
+        ]
     }
 }
