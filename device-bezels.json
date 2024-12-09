@@ -929,6 +929,35 @@
                     "path": "bezels/apple/ipad/iPad 9th-Gen 10.2-inch 2019/Apple iPad 10.2 Gold Portrait.png"
                 }
             ]
+        },
+        {
+            "name": "iPad Pro (10.5-inch, 1st-Gen)",
+            "type": "ipad",
+            "generation": "1",
+            "variant": "pro-10.5",
+            "displaySize": "10.5",
+            "bezelType": "standard",
+            "resolution": {
+                "width": 1668,
+                "height": 2224
+            },
+            "frames": [
+                {
+                    "color": "silver",
+                    "orientation": "portrait",
+                    "path": "bezels/apple/ipad/iPad Pro 10.5-inch 2017/Apple iPad Pro Silver Portrait.png"
+                },
+                {
+                    "color": "space-gray",
+                    "orientation": "portrait",
+                    "path": "bezels/apple/ipad/iPad Pro 10.5-inch 2017/Apple iPad Pro Space Gray Portrait.png"
+                },
+                {
+                    "color": "gold",
+                    "orientation": "portrait",
+                    "path": "bezels/apple/ipad/iPad Pro 10.5-inch 2017/Apple iPad Pro Gold Portrait.png"
+                }
+            ]
         }
     ],
     "metadata": {
