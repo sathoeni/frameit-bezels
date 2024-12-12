@@ -987,6 +987,54 @@
                     "path": "bezels/apple/ipad/iPad Air 9.7-inch 2nd-Gend 2014/Apple iPad Air 2 Gold.png"
                 }
             ]
+        },
+        {
+            "name": "iPad Pro (11-inch, M4 2024)",
+            "type": "ipad",
+            "generation": "M4",
+            "variant": "pro-11",
+            "displaySize": "11",
+            "bezelType": "standard",
+            "resolution": {
+                "width": 1668,
+                "height": 2420
+            },
+            "frames": [
+                {
+                    "color": "silver",
+                    "orientation": "portrait",
+                    "path": "apple/ipad/iPad Pro 11-inch M4 2024/iPad Pro 11 - M4 - Silver - Portrait.png"
+                },
+                {
+                    "color": "space-gray",
+                    "orientation": "portrait",
+                    "path": "apple/ipad/iPad Pro 11-inch M4 2024/iPad Pro 11 - M4 - Space Gray - Portrait.png"
+                }
+            ]
+        },
+        {
+            "name": "iPad Pro (13-inch, M4 2024)",
+            "type": "ipad",
+            "generation": "M4",
+            "variant": "pro-13",
+            "displaySize": "13",
+            "bezelType": "standard",
+            "resolution": {
+                "width": 2064,
+                "height": 2752
+            },
+            "frames": [
+                {
+                    "color": "silver",
+                    "orientation": "portrait",
+                    "path": "apple/ipad/iPad Pro 13-inch M4 2024/iPad Pro 13 - M4 - Silver - Portrait.png"
+                },
+                {
+                    "color": "space-gray",
+                    "orientation": "portrait",
+                    "path": "apple/ipad/iPad Pro 13-inch M4 2024/iPad Pro 13 - M4 - Space Gray - Portrait.png"
+                }
+            ]
         }
     ],
     "metadata": {
