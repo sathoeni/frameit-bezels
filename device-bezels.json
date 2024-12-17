@@ -1035,6 +1035,127 @@
           "path": "bezels/apple/ipad/iPad Pro 13-inch M4 2024/iPad Pro 13 - M4 - Space Gray - Portrait.png"
         }
       ]
+    },
+    {
+      "name": "iPhone 11 Pro Max",
+      "type": "iphone",
+      "generation": "11",
+      "variant": "pro-max",
+      "displaySize": "6.5",
+      "bezelType": "notch",
+      "resolution": {
+        "width": 1242,
+        "height": 2688
+      },
+      "frames": [
+        {
+          "color": "gold",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 11 Pro Max/Apple iPhone 11 Pro Max Gold.png"
+        },
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 11 Pro Max/Apple iPhone 11 Pro Max Silver.png"
+        },
+        {
+          "color": "space-gray",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 11 Pro Max/Apple iPhone 11 Pro Max Space Gray.png"
+        }
+      ]
+    },
+    {
+      "name": "iPhone 11 Pro",
+      "type": "iphone",
+      "generation": "11",
+      "variant": "pro",
+      "displaySize": "5.8",
+      "bezelType": "notch",
+      "resolution": {
+        "width": 1125,
+        "height": 2436
+      },
+      "frames": [
+        {
+          "color": "gold",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 11 Pro/Apple iPhone 11 Pro Gold.png"
+        },
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 11 Pro/Apple iPhone 11 Pro Silver.png"
+        },
+        {
+          "color": "midnight-green",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 11 Pro/Apple iPhone 11 Pro Midnight Green.png"
+        },
+        {
+          "color": "space-gray",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 11 Pro/Apple iPhone 11 Pro Space Gray.png"
+        }
+      ]
+    },
+    {
+      "name": "iPhone 8 Plus",
+      "type": "iphone",
+      "generation": "8",
+      "variant": "plus",
+      "displaySize": "5.5",
+      "bezelType": "standard",
+      "resolution": {
+        "width": 1080,
+        "height": 1920
+      },
+      "frames": [
+        {
+          "color": "gold",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 8 Plus/Apple iPhone 8 Plus Gold.png"
+        },
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 8 Plus/Apple iPhone 8 Plus Silver.png"
+        },
+        {
+          "color": "space-gray",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 8 Plus/Apple iPhone 8 Plus Space Gray.png"
+        }
+      ]
+    },
+    {
+      "name": "iPhone 8",
+      "type": "iphone",
+      "generation": "8",
+      "variant": "standard",
+      "displaySize": "4.7",
+      "bezelType": "standard",
+      "resolution": {
+        "width": 750,
+        "height": 1334
+      },
+      "frames": [
+        {
+          "color": "gold",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 8/Apple iPhone 8 Gold.png"
+        },
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 8/Apple iPhone 8 Silver.png"
+        },
+        {
+          "color": "space-gray",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 8/Apple iPhone 8 Space Gray.png"
+        }
+      ]
     }
   ],
   "metadata": {
