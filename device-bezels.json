@@ -931,31 +931,31 @@
       ]
     },
     {
-      "name": "iPad Pro (10.5-inch, 1st-Gen)",
+      "name": "iPad Pro (12.9-inch, 2nd-Gen)",
       "type": "ipad",
-      "generation": "1",
-      "variant": "pro-10.5",
-      "displaySize": "10.5",
+      "generation": "2",
+      "variant": "pro-12.9",
+      "displaySize": "12.9",
       "bezelType": "standard",
       "resolution": {
-        "width": 1668,
-        "height": 2224
+        "width": 2048,
+        "height": 2732
       },
       "frames": [
         {
+          "color": "gold",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Pro 12.9-inch 2nd 2017/Apple iPad Pro 12.9 2nd Gold Portrait.png"
+        },
+        {
           "color": "silver",
           "orientation": "portrait",
-          "path": "bezels/apple/ipad/iPad Pro 10.5-inch 2017/Apple iPad Pro Silver Portrait.png"
+          "path": "bezels/apple/ipad/iPad Pro 12.9-inch 2nd 2017/Apple iPad Pro 12.9 2nd Silver Portrait.png"
         },
         {
           "color": "space-gray",
           "orientation": "portrait",
-          "path": "bezels/apple/ipad/iPad Pro 10.5-inch 2017/Apple iPad Pro Space Gray Portrait.png"
-        },
-        {
-          "color": "gold",
-          "orientation": "portrait",
-          "path": "bezels/apple/ipad/iPad Pro 10.5-inch 2017/Apple iPad Pro Gold Portrait.png"
+          "path": "bezels/apple/ipad/iPad Pro 12.9-inch 2nd 2017/Apple iPad Pro 12.9 2nd Space Gray Portrait.png"
         }
       ]
     },
@@ -996,8 +996,8 @@
       "displaySize": "11",
       "bezelType": "standard",
       "resolution": {
-        "width": 1668,
-        "height": 2420
+        "width": 2420,
+        "height": 1668
       },
       "frames": [
         {
@@ -1020,8 +1020,8 @@
       "displaySize": "13",
       "bezelType": "standard",
       "resolution": {
-        "width": 2064,
-        "height": 2752
+        "width": 2752,
+        "height": 2064
       },
       "frames": [
         {
