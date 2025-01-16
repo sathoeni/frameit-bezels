@@ -1,0 +1,1083 @@
+{
+  "devices": [
+    {
+      "id": "iphone-16-pro-max",
+      "name": "iPhone 16 Pro Max",
+      "resolution": {
+        "width": 1320,
+        "height": 2868
+      },
+      "frames": [
+        {
+          "color": "black-titanium",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 16 Pro Max/iPhone 16 Pro Max - Black Titanium - Portrait.png"
+        },
+        {
+          "color": "black-titanium",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 16 Pro Max/iPhone 16 Pro Max - Black Titanium - Landscape.png"
+        },
+        {
+          "color": "natural-titanium",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 16 Pro Max/iPhone 16 Pro Max - Natural Titanium - Portrait.png"
+        },
+        {
+          "color": "natural-titanium",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 16 Pro Max/iPhone 16 Pro Max - Natural Titanium - Landscape.png"
+        },
+        {
+          "color": "white-titanium",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 16 Pro Max/iPhone 16 Pro Max - White Titanium - Portrait.png"
+        },
+        {
+          "color": "white-titanium",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 16 Pro Max/iPhone 16 Pro Max - White Titanium - Landscape.png"
+        },
+        {
+          "color": "desert-titanium",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 16 Pro Max/iPhone 16 Pro Max - Desert Titanium - Portrait.png"
+        },
+        {
+          "color": "desert-titanium",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 16 Pro Max/iPhone 16 Pro Max - Desert Titanium - Landscape.png"
+        }
+      ]
+    },
+    {
+      "id": "iphone-16-pro",
+      "name": "iPhone 16 Pro",
+      "resolution": {
+        "width": 1206,
+        "height": 2622
+      },
+      "frames": [
+        {
+          "color": "black-titanium",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 16 Pro/iPhone 16 Pro - Black Titanium - Portrait.png"
+        },
+        {
+          "color": "black-titanium",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 16 Pro/iPhone 16 Pro - Black Titanium - Landscape.png"
+        },
+        {
+          "color": "natural-titanium",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 16 Pro/iPhone 16 Pro - Natural Titanium - Portrait.png"
+        },
+        {
+          "color": "natural-titanium",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 16 Pro/iPhone 16 Pro - Natural Titanium - Landscape.png"
+        },
+        {
+          "color": "white-titanium",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 16 Pro/iPhone 16 Pro - White Titanium - Portrait.png"
+        },
+        {
+          "color": "white-titanium",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 16 Pro/iPhone 16 Pro - White Titanium - Landscape.png"
+        },
+        {
+          "color": "desert-titanium",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 16 Pro/iPhone 16 Pro - Desert Titanium - Portrait.png"
+        },
+        {
+          "color": "desert-titanium",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 16 Pro/iPhone 16 Pro - Desert Titanium - Landscape.png"
+        }
+      ]
+    },
+    {
+      "id": "iphone-16-plus",
+      "name": "iPhone 16 Plus",
+      "resolution": {
+        "width": 1290,
+        "height": 2796
+      },
+      "frames": [
+        {
+          "color": "black",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 16 Plus/iPhone 16 Plus - Black - Portrait.png"
+        },
+        {
+          "color": "black",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 16 Plus/iPhone 16 Plus - Black - Landscape.png"
+        },
+        {
+          "color": "pink",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 16 Plus/iPhone 16 Plus - Pink - Portrait.png"
+        },
+        {
+          "color": "pink",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 16 Plus/iPhone 16 Plus - Pink - Landscape.png"
+        },
+        {
+          "color": "teal",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 16 Plus/iPhone 16 Plus - Teal - Portrait.png"
+        },
+        {
+          "color": "teal",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 16 Plus/iPhone 16 Plus - Teal - Landscape.png"
+        },
+        {
+          "color": "ultramarine",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 16 Plus/iPhone 16 Plus - Ultramarine - Portrait.png"
+        },
+        {
+          "color": "ultramarine",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 16 Plus/iPhone 16 Plus - Ultramarine - Landscape.png"
+        },
+        {
+          "color": "white",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 16 Plus/iPhone 16 Plus - White - Portrait.png"
+        },
+        {
+          "color": "white",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 16 Plus/iPhone 16 Plus - White - Landscape.png"
+        }
+      ]
+    },
+    {
+      "id": "iphone-16-standard",
+      "name": "iPhone 16",
+      "resolution": {
+        "width": 1179,
+        "height": 2556
+      },
+      "frames": [
+        {
+          "color": "black",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 16/iPhone 16 - Black - Portrait.png"
+        },
+        {
+          "color": "black",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 16/iPhone 16 - Black - Landscape.png"
+        },
+        {
+          "color": "pink",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 16/iPhone 16 - Pink - Portrait.png"
+        },
+        {
+          "color": "pink",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 16/iPhone 16 - Pink - Landscape.png"
+        },
+        {
+          "color": "teal",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 16/iPhone 16 - Teal - Portrait.png"
+        },
+        {
+          "color": "teal",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 16/iPhone 16 - Teal - Landscape.png"
+        },
+        {
+          "color": "ultramarine",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 16/iPhone 16 - Ultramarine - Portrait.png"
+        },
+        {
+          "color": "ultramarine",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 16/iPhone 16 - Ultramarine - Landscape.png"
+        },
+        {
+          "color": "white",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 16/iPhone 16 - White - Portrait.png"
+        },
+        {
+          "color": "white",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 16/iPhone 16 - White - Landscape.png"
+        }
+      ]
+    },
+    {
+      "id": "iphone-15-pro-max",
+      "name": "iPhone 15 Pro Max",
+      "resolution": {
+        "width": 1290,
+        "height": 2796
+      },
+      "frames": [
+        {
+          "color": "black-titanium",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 15 Pro Max/iPhone 15 Pro Max - Black Titanium - Portrait.png"
+        },
+        {
+          "color": "black-titanium",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 15 Pro Max/iPhone 15 Pro Max - Black Titanium - Landscape.png"
+        },
+        {
+          "color": "natural-titanium",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 15 Pro Max/iPhone 15 Pro Max - Natural Titanium - Portrait.png"
+        },
+        {
+          "color": "natural-titanium",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 15 Pro Max/iPhone 15 Pro Max - Natural Titanium - Landscape.png"
+        },
+        {
+          "color": "blue-titanium",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 15 Pro Max/iPhone 15 Pro Max - Blue Titanium - Portrait.png"
+        },
+        {
+          "color": "blue-titanium",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 15 Pro Max/iPhone 15 Pro Max - Blue Titanium - Landscape.png"
+        },
+        {
+          "color": "white-titanium",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 15 Pro Max/iPhone 15 Pro Max - White Titanium - Portrait.png"
+        },
+        {
+          "color": "white-titanium",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 15 Pro Max/iPhone 15 Pro Max - White Titanium - Landscape.png"
+        }
+      ]
+    },
+    {
+      "id": "iphone-15-pro",
+      "name": "iPhone 15 Pro",
+      "resolution": {
+        "width": 1179,
+        "height": 2556
+      },
+      "frames": [
+        {
+          "color": "black-titanium",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 15 Pro/iPhone 15 Pro - Black Titanium - Portrait.png"
+        },
+        {
+          "color": "black-titanium",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 15 Pro/iPhone 15 Pro - Black Titanium - Landscape.png"
+        },
+        {
+          "color": "blue-titanium",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 15 Pro/iPhone 15 Pro - Blue Titanium - Portrait.png"
+        },
+        {
+          "color": "blue-titanium",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 15 Pro/iPhone 15 Pro - Blue Titanium - Landscape.png"
+        },
+        {
+          "color": "natural-titanium",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 15 Pro/iPhone 15 Pro - Natural Titanium - Portrait.png"
+        },
+        {
+          "color": "natural-titanium",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 15 Pro/iPhone 15 Pro - Natural Titanium - Landscape.png"
+        },
+        {
+          "color": "white-titanium",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 15 Pro/iPhone 15 Pro - White Titanium - Portrait.png"
+        },
+        {
+          "color": "white-titanium",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 15 Pro/iPhone 15 Pro - White Titanium - Landscape.png"
+        }
+      ]
+    },
+    {
+      "id": "iphone-15-plus",
+      "name": "iPhone 15 Plus",
+      "resolution": {
+        "width": 1290,
+        "height": 2796
+      },
+      "frames": [
+        {
+          "color": "black",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 15 Plus/iPhone 15 Plus - Black - Portrait.png"
+        },
+        {
+          "color": "black",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 15 Plus/iPhone 15 Plus - Black - Landscape.png"
+        },
+        {
+          "color": "blue",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 15 Plus/iPhone 15 Plus - Blue - Portrait.png"
+        },
+        {
+          "color": "blue",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 15 Plus/iPhone 15 Plus - Blue - Landscape.png"
+        },
+        {
+          "color": "green",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 15 Plus/iPhone 15 Plus - Green - Portrait.png"
+        },
+        {
+          "color": "green",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 15 Plus/iPhone 15 Plus - Green - Landscape.png"
+        },
+        {
+          "color": "pink",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 15 Plus/iPhone 15 Plus - Pink - Portrait.png"
+        },
+        {
+          "color": "pink",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 15 Plus/iPhone 15 Plus - Pink - Landscape.png"
+        },
+        {
+          "color": "yellow",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 15 Plus/iPhone 15 Plus - Yellow - Portrait.png"
+        },
+        {
+          "color": "yellow",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 15 Plus/iPhone 15 Plus - Yellow - Landscape.png"
+        }
+      ]
+    },
+    {
+      "id": "iphone-15-standard",
+      "name": "iPhone 15",
+      "resolution": {
+        "width": 1179,
+        "height": 2556
+      },
+      "frames": [
+        {
+          "color": "black",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 15/iPhone 15 - Black - Portrait.png"
+        },
+        {
+          "color": "black",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 15/iPhone 15 - Black - Landscape.png"
+        },
+        {
+          "color": "blue",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 15/iPhone 15 - Blue - Portrait.png"
+        },
+        {
+          "color": "blue",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 15/iPhone 15 - Blue - Landscape.png"
+        },
+        {
+          "color": "green",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 15/iPhone 15 - Green - Portrait.png"
+        },
+        {
+          "color": "green",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 15/iPhone 15 - Green - Landscape.png"
+        },
+        {
+          "color": "pink",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 15/iPhone 15 - Pink - Portrait.png"
+        },
+        {
+          "color": "pink",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 15/iPhone 15 - Pink - Landscape.png"
+        },
+        {
+          "color": "yellow",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 15/iPhone 15 - Yellow - Portrait.png"
+        },
+        {
+          "color": "yellow",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 15/iPhone 15 - Yellow - Landscape.png"
+        }
+      ]
+    },
+    {
+      "id": "iphone-14-pro-max",
+      "name": "iPhone 14 Pro Max",
+      "resolution": {
+        "width": 1290,
+        "height": 2796
+      },
+      "frames": [
+        {
+          "color": "deep-purple",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 14 Pro Max/iPhone 14 Pro Max - Deep Purple - Portrait.png"
+        },
+        {
+          "color": "deep-purple",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 14 Pro Max/iPhone 14 Pro Max - Deep Purple - Landscape.png"
+        },
+        {
+          "color": "gold",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 14 Pro Max/iPhone 14 Pro Max - Gold - Portrait.png"
+        },
+        {
+          "color": "gold",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 14 Pro Max/iPhone 14 Pro Max - Gold - Landscape.png"
+        },
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 14 Pro Max/iPhone 14 Pro Max - Silver - Portrait.png"
+        },
+        {
+          "color": "silver",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 14 Pro Max/iPhone 14 Pro Max - Silver - Landscape.png"
+        },
+        {
+          "color": "space-black",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 14 Pro Max/iPhone 14 Pro Max - Space Black - Portrait.png"
+        },
+        {
+          "color": "space-black",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 14 Pro Max/iPhone 14 Pro Max - Space Black - Landscape.png"
+        }
+      ]
+    },
+    {
+      "id": "iphone-14-pro",
+      "name": "iPhone 14 Pro",
+      "resolution": {
+        "width": 1179,
+        "height": 2556
+      },
+      "frames": [
+        {
+          "color": "deep-purple",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 14 Pro/iPhone 14 Pro - Deep Purple - Portrait.png"
+        },
+        {
+          "color": "deep-purple",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 14 Pro/iPhone 14 Pro - Deep Purple - Landscape.png"
+        },
+        {
+          "color": "gold",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 14 Pro/iPhone 14 Pro - Gold - Portrait.png"
+        },
+        {
+          "color": "gold",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 14 Pro/iPhone 14 Pro - Gold - Landscape.png"
+        },
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 14 Pro/iPhone 14 Pro - Silver - Portrait.png"
+        },
+        {
+          "color": "silver",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 14 Pro/iPhone 14 Pro - Silver - Landscape.png"
+        },
+        {
+          "color": "space-black",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 14 Pro/iPhone 14 Pro - Space Black - Portrait.png"
+        },
+        {
+          "color": "space-black",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 14 Pro/iPhone 14 Pro - Space Black - Landscape.png"
+        }
+      ]
+    },
+    {
+      "id": "iphone-14-plus",
+      "name": "iPhone 14 Plus",
+      "resolution": {
+        "width": 1284,
+        "height": 2778
+      },
+      "frames": [
+        {
+          "color": "midnight",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 14 Plus/iPhone 14 Plus - Midnight - Portrait.png"
+        },
+        {
+          "color": "midnight",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 14 Plus/iPhone 14 Plus - Midnight - Landscape.png"
+        },
+        {
+          "color": "starlight",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 14 Plus/iPhone 14 Plus - Starlight - Portrait.png"
+        },
+        {
+          "color": "starlight",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 14 Plus/iPhone 14 Plus - Starlight - Landscape.png"
+        },
+        {
+          "color": "blue",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 14 Plus/iPhone 14 Plus - Blue - Portrait.png"
+        },
+        {
+          "color": "blue",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 14 Plus/iPhone 14 Plus - Blue - Landscape.png"
+        },
+        {
+          "color": "purple",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 14 Plus/iPhone 14 Plus - Purple - Portrait.png"
+        },
+        {
+          "color": "purple",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 14 Plus/iPhone 14 Plus - Purple - Landscape.png"
+        },
+        {
+          "color": "red",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 14 Plus/iPhone 14 Plus - Red - Portrait.png"
+        },
+        {
+          "color": "red",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 14 Plus/iPhone 14 Plus - Red - Landscape.png"
+        }
+      ]
+    },
+    {
+      "id": "iphone-14-standard",
+      "name": "iPhone 14",
+      "resolution": {
+        "width": 1170,
+        "height": 2532
+      },
+      "frames": [
+        {
+          "color": "midnight",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 14/iPhone 14 - Midnight - Portrait.png"
+        },
+        {
+          "color": "midnight",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 14/iPhone 14 - Midnight - Landscape.png"
+        },
+        {
+          "color": "starlight",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 14/iPhone 14 - Starlight - Portrait.png"
+        },
+        {
+          "color": "starlight",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 14/iPhone 14 - Starlight - Landscape.png"
+        },
+        {
+          "color": "blue",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 14/iPhone 14 - Blue - Portrait.png"
+        },
+        {
+          "color": "blue",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 14/iPhone 14 - Blue - Landscape.png"
+        },
+        {
+          "color": "purple",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 14/iPhone 14 - Purple - Portrait.png"
+        },
+        {
+          "color": "purple",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 14/iPhone 14 - Purple - Landscape.png"
+        },
+        {
+          "color": "red",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 14/iPhone 14 - Red - Portrait.png"
+        },
+        {
+          "color": "red",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 14/iPhone 14 - Red - Landscape.png"
+        }
+      ]
+    },
+    {
+      "id": "iphone-13-pro-max",
+      "name": "iPhone 13 Pro Max",
+      "resolution": {
+        "width": 1284,
+        "height": 2778
+      },
+      "frames": [
+        {
+          "color": "graphite",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 13 Pro Max/iPhone 13 Pro Max - Graphite - Portrait.png"
+        },
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 13 Pro Max/iPhone 13 Pro Max - Silver - Portrait.png"
+        }
+      ]
+    },
+    {
+      "id": "iphone-13-pro",
+      "name": "iPhone 13 Pro",
+      "resolution": {
+        "width": 1170,
+        "height": 2532
+      },
+      "frames": [
+        {
+          "color": "graphite",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 13 Pro/iPhone 13 Pro - Graphite - Portrait.png"
+        },
+        {
+          "color": "graphite",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 13 Pro/iPhone 13 Pro - Graphite - Landscape.png"
+        },
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 13 Pro/iPhone 13 Pro - Silver - Portrait.png"
+        },
+        {
+          "color": "silver",
+          "orientation": "landscape",
+          "path": "bezels/apple/iphone/iPhone 13 Pro/iPhone 13 Pro - Silver - Landscape.png"
+        }
+      ]
+    },
+    {
+      "id": "iphone-13-standard",
+      "name": "iPhone 13",
+      "resolution": {
+        "width": 1170,
+        "height": 2532
+      },
+      "frames": [
+        {
+          "color": "midnight",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 13/iPhone 13 - Midnight.png"
+        },
+        {
+          "color": "starlight",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 13/iPhone 13 - Starlight.png"
+        }
+      ]
+    },
+    {
+      "id": "iphone-13-mini",
+      "name": "iPhone 13 mini",
+      "resolution": {
+        "width": 1080,
+        "height": 2340
+      },
+      "frames": [
+        {
+          "color": "midnight",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 13 mini/iPhone 13 mini - Midnight.png"
+        },
+        {
+          "color": "starlight",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 13 mini/iPhone 13 mini - Starlight.png"
+        }
+      ]
+    },
+    {
+      "id": "ipad-pro-12-9-6th",
+      "name": "iPad Pro (12.9-inch, 6th-Gen)",
+      "resolution": {
+        "width": 2048,
+        "height": 2732
+      },
+      "frames": [
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Pro 12.9-inch 6th-Gen 2022/Apple iPad Pro 12.9 Silver - Portrait.png"
+        },
+        {
+          "color": "space-gray",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Pro 12.9-inch 6th-Gen 2022/Apple iPad Pro 12.9 Space Gray - Portrait.png"
+        }
+      ]
+    },
+    {
+      "id": "ipad-pro-11-4th",
+      "name": "iPad Pro (11-inch, 4th-Gen)",
+      "resolution": {
+        "width": 1668,
+        "height": 2388
+      },
+      "frames": [
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Pro 11-inch 4th-Gen 2022/Apple iPad Pro 11 Silver - Portrait.png"
+        },
+        {
+          "color": "space-gray",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Pro 11-inch 4th-Gen 2022/Apple iPad Pro 11 Space Gray - Portrait.png"
+        }
+      ]
+    },
+    {
+      "id": "ipad-air-4th",
+      "name": "iPad Air (4th generation)",
+      "resolution": {
+        "width": 1640,
+        "height": 2360
+      },
+      "frames": [
+        {
+          "color": "space-gray",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Air 4th-Gen 2020/Apple iPad Air 2020 Space Gray Portrait.png"
+        },
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Air 4th-Gen 2020/Apple iPad Air 2020 Silver Portrait.png"
+        },
+        {
+          "color": "green",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Air 4th-Gen 2020/Apple iPad Air 2020 Green Portrait.png"
+        },
+        {
+          "color": "rose-gold",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Air 4th-Gen 2020/Apple iPad Air 2020 Rose Gold Portrait.png"
+        },
+        {
+          "color": "sky-blue",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Air 4th-Gen 2020/Apple iPad Air 2020 Sky Blue Portrait.png"
+        }
+      ]
+    },
+    {
+      "id": "ipad-9th",
+      "name": "iPad (9th generation)",
+      "resolution": {
+        "width": 1620,
+        "height": 2160
+      },
+      "frames": [
+        {
+          "color": "space-gray",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad 9th-Gen 10.2-inch 2019/Apple iPad 10.2 Space Gray Portrait.png"
+        },
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad 9th-Gen 10.2-inch 2019/Apple iPad 10.2 Silver Portrait.png"
+        },
+        {
+          "color": "gold",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad 9th-Gen 10.2-inch 2019/Apple iPad 10.2 Gold Portrait.png"
+        }
+      ]
+    },
+    {
+      "id": "ipad-pro-12-9-2nd",
+      "name": "iPad Pro (12.9-inch, 2nd-Gen)",
+      "resolution": {
+        "width": 2048,
+        "height": 2732
+      },
+      "frames": [
+        {
+          "color": "gold",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Pro 12.9-inch 2nd 2017/Apple iPad Pro 12.9 2nd Gold Portrait.png"
+        },
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Pro 12.9-inch 2nd 2017/Apple iPad Pro 12.9 2nd Silver Portrait.png"
+        },
+        {
+          "color": "space-gray",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Pro 12.9-inch 2nd 2017/Apple iPad Pro 12.9 2nd Space Gray Portrait.png"
+        }
+      ]
+    },
+    {
+      "id": "ipad-pro-10.5-1st",
+      "name": "iPad Pro (10.5-inch, 1st-Gen)",
+      "resolution": {
+        "width": 1668,
+        "height": 2224
+      },
+      "frames": [
+        {
+          "color": "gold",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Pro 10.5/Apple iPad Pro 10.5 1st Gold Portrait.png"
+        },
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Pro 10.5/Apple iPad Pro 10.5 1st Silver Portrait.png"
+        },
+        {
+          "color": "space-gray",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Pro 10.5/Apple iPad Pro 10.5 1st Space Gray Portrait.png"
+        }
+      ]
+    },
+    {
+      "id": "ipad-air-2nd",
+      "name": "iPad Air (9.7-inch, 2nd-Gen)",
+      "resolution": {
+        "width": 1536,
+        "height": 2048
+      },
+      "frames": [
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Air 9.7-inch 2nd-Gen 2014/Apple iPad Air 2 Silver.png"
+        },
+        {
+          "color": "space-gray",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Air 9.7-inch 2nd-Gen 2014/Apple iPad Air 2 Space Gray.png"
+        },
+        {
+          "color": "gold",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Air 9.7-inch 2nd-Gen 2014/Apple iPad Air 2 Gold.png"
+        }
+      ]
+    },
+    {
+      "id": "ipad-pro-11-m4",
+      "name": "iPad Pro (11-inch, M4 2024)",
+      "resolution": {
+        "width": 1668,
+        "height": 2420
+      },
+      "frames": [
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Pro 11-inch M4 2024/iPad Pro 11 - M4 - Silver - Portrait.png"
+        },
+        {
+          "color": "space-gray",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Pro 11-inch M4 2024/iPad Pro 11 - M4 - Space Gray - Portrait.png"
+        }
+      ]
+    },
+    {
+      "id": "ipad-pro-13-m4",
+      "name": "iPad Pro (13-inch, M4 2024)",
+      "resolution": {
+        "width": 2064,
+        "height": 2752
+      },
+      "frames": [
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Pro 13-inch M4 2024/iPad Pro 13 - M4 - Silver - Portrait.png"
+        },
+        {
+          "color": "space-gray",
+          "orientation": "portrait",
+          "path": "bezels/apple/ipad/iPad Pro 13-inch M4 2024/iPad Pro 13 - M4 - Space Gray - Portrait.png"
+        }
+      ]
+    },
+    {
+      "id": "iphone-11-pro-max",
+      "name": "iPhone 11 Pro Max",
+      "resolution": {
+        "width": 1242,
+        "height": 2688
+      },
+      "frames": [
+        {
+          "color": "gold",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 11 Pro Max/Apple iPhone 11 Pro Max Gold.png"
+        },
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 11 Pro Max/Apple iPhone 11 Pro Max Silver.png"
+        },
+        {
+          "color": "space-gray",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 11 Pro Max/Apple iPhone 11 Pro Max Space Gray.png"
+        }
+      ]
+    },
+    {
+      "id": "iphone-11-pro",
+      "name": "iPhone 11 Pro",
+      "resolution": {
+        "width": 1125,
+        "height": 2436
+      },
+      "frames": [
+        {
+          "color": "gold",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 11 Pro/Apple iPhone 11 Pro Gold.png"
+        },
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 11 Pro/Apple iPhone 11 Pro Silver.png"
+        },
+        {
+          "color": "midnight-green",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 11 Pro/Apple iPhone 11 Pro Midnight Green.png"
+        },
+        {
+          "color": "space-gray",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 11 Pro/Apple iPhone 11 Pro Space Gray.png"
+        }
+      ]
+    },
+    {
+      "id": "iphone-8-plus",
+      "name": "iPhone 8 Plus",
+      "resolution": {
+        "width": 1242,
+        "height": 2208
+      },
+      "frames": [
+        {
+          "color": "gold",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 8 Plus/Apple iPhone 8 Plus Gold.png"
+        },
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 8 Plus/Apple iPhone 8 Plus Silver.png"
+        },
+        {
+          "color": "space-gray",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 8 Plus/Apple iPhone 8 Plus Space Gray.png"
+        }
+      ]
+    },
+    {
+      "id": "iphone-8-standard",
+      "name": "iPhone 8",
+      "resolution": {
+        "width": 750,
+        "height": 1334
+      },
+      "frames": [
+        {
+          "color": "gold",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 8/Apple iPhone 8 Gold.png"
+        },
+        {
+          "color": "silver",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 8/Apple iPhone 8 Silver.png"
+        },
+        {
+          "color": "space-gray",
+          "orientation": "portrait",
+          "path": "bezels/apple/iphone/iPhone 8/Apple iPhone 8 Space Gray.png"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "1.1.0",
+    "lastUpdated": "2024-03-20",
+    "description": "Device bezel specifications updated with latest iPad and iPhone models",
+    "sources": [
+      "https://support.apple.com/de-de/108043",
+      "https://developer.apple.com/help/app-store-connect/reference/screenshot-specifications/"
+    ]
+  }
+}
